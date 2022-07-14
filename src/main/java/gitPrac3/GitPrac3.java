@@ -18,7 +18,7 @@ public class GitPrac3 {
 		
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
-		driver.get("https://techfios.com/billing/?ng=admin/");
+		driver.get("https://techfios.com/portal/login");
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	}
 	

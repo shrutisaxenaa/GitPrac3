@@ -6,6 +6,7 @@
       <class name="gitPrac3.GitPrac3">
         <methods>
           <include name="init"/>
+          <include name="tearDown"/>
         </methods>
       </class> <!-- gitPrac3.GitPrac3 -->
     </classes>
